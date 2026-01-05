@@ -2,3 +2,8 @@
 this will help to the cops 
 
 and also we can track them
+
+git add
+git status
+git comit
+git push
