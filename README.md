@@ -12,3 +12,6 @@ where we will push into remort(git hub)
 
 git init                         = make the folder as git file
 git remort add origin <link>    :   link the local folder with github
+
+and today i have lernt about 
+madging
