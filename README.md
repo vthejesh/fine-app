@@ -14,4 +14,5 @@ git init                         = make the folder as git file
 git remort add origin <link>    :   link the local folder with github
 
 and today i have lernt about 
-madging
+madging 
+bonding by key origin is importent
