@@ -16,4 +16,4 @@ git remort add origin <link>    :   link the local folder with github
 and today i have lernt about 
 madging 
 bonding by key origin is importent
-dd
+dd re
