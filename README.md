@@ -17,3 +17,6 @@ and today i have lernt about
 madging 
 bonding by key origin is importent
 dd re
+
+
+tmrw we have the examm s be track
