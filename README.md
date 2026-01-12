@@ -20,3 +20,5 @@ dd re
 
 
 tmrw we have the examm s be track
+
+the cn
