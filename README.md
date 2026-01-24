@@ -18,7 +18,23 @@ madging
 bonding by key origin is importent
 dd re
 
+# Student Management System
 
-tmrw we have the examm s be track
+A CRUD web application built using Python Flask and SQLite.
 
-the cn
+## Features y
+- Add, edit, delete students
+- Database persistence
+- Clean UI
+
+## Tech Stack
+- Python
+- Flask
+- SQLite
+- HTML/CSS
+
+## How to Run
+
+```bash
+pip install flask
+python app.py
